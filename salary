@@ -1,0 +1,76 @@
+#  Salary Components in India — Beginner’s Guide
+
+## 1. Overview
+- Understanding salary components is essential for managing your finances and optimizing taxes.
+- The **Cost to Company (CTC)** includes gross salary and employer contributions (PF, gratuity, etc.) :contentReference[oaicite:0]{index=0}.
+- **Gross Salary** = Basic + Allowances (HRA, LTA, Conveyance, Special Allowance) :contentReference[oaicite:1]{index=1}.
+- **Net (Take-Home) Salary** = Gross Salary – Deductions (PF, TDS, Professional Tax, etc.) :contentReference[oaicite:2]{index=2}.
+
+---
+
+## 2. Basic Salary
+- The fixed, core component—usually **40–50%** of CTC or Gross Salary :contentReference[oaicite:3]{index=3}.
+- Used to calculate PF, gratuity, HRA, leave encashment, and bonuses :contentReference[oaicite:4]{index=4}.
+- Fully taxable under income tax :contentReference[oaicite:5]{index=5}.
+- Must comply with state minimum wage laws :contentReference[oaicite:6]{index=6}.
+
+---
+
+## 3. Allowances
+- **House Rent Allowance (HRA)**: Typically 40% (non-metros) or 50% (metros) of Basic; partially exempt under Section 10(13A) if you pay rent :contentReference[oaicite:7]{index=7}.
+- **Leave Travel Allowance (LTA)**: Exemption for travel within India; claimable twice in a block of 4 years, with documentary proofs :contentReference[oaicite:8]{index=8}.
+- **Conveyance Allowance**: Previously exempt; now mostly replaced by standard deduction :contentReference[oaicite:9]{index=9}.
+- **Medical Allowance**: Earlier exempt with bills; now subsumed under standard deduction :contentReference[oaicite:10]{index=10}.
+- **Special Allowance**: Flexible residual component; fully taxable :contentReference[oaicite:11]{index=11}.
+- **Dearness Allowance (DA)**: Adjusts for inflation—mostly in government roles; also impacts PF and benefits :contentReference[oaicite:12]{index=12}.
+
+---
+
+## 4. Deductions & Employer Contributions
+- **Employee Provident Fund (EPF)**: 12% of (Basic + DA) contributed by both employee & employer; employee’s part is tax-deductible under Section 80C (up to ₹1.5 L) :contentReference[oaicite:13]{index=13}.
+- **Gratuity**: Lump-sum benefit for ≥5 years of service. Calculated as (15/26) × Last Basic × Years of Service per Gratuity Act 1972 :contentReference[oaicite:14]{index=14}.
+- **Professional Tax**: State-specific tax deducted monthly by employer; varies across states :contentReference[oaicite:15]{index=15}.
+- **TDS (Tax Deducted at Source)**: Employer deducts tax on salary as per applicable income slab rates.
+
+---
+
+## 5. Equity Compensation: ESOPs & RSUs
+- **ESOP (Employee Stock Option Plan)**: Gives the right to buy company shares at a predetermined price post-vesting. Taxed as a perquisite when exercised (difference between FMV and exercise price) :contentReference[oaicite:16]{index=16}.
+- **RSU (Restricted Stock Units)**: Shares granted for free, subject to vesting. Taxed as perquisite at vesting—entire FMV is taxable :contentReference[oaicite:17]{index=17}.
+- **Capital Gains Tax**: When shares are sold, taxed based on holding period:
+  - **Listed shares**: Short-term (≤12 months) → 20%; Long-term (>12 months) → 10% above ₹1 L exemption.
+  - **Unlisted shares**: Short-term (≤24 months) → slab rate; Long-term (>24 months) → 20% :contentReference[oaicite:18]{index=18}.
+
+---
+
+## 6. Putting It All Together
+| Component             | What It Means                                         |
+|----------------------|--------------------------------------------------------|
+| **CTC**              | Total employer cost including gross salary + contributions |
+| **Gross Salary**     | Basic + Allowances before deductions                   |
+| **Deductions**       | PF, Tax, Professional Tax, others                      |
+| **Net Salary**       | Amount received in your bank account                   |
+| **EPF & Gratuity**   | Long-term benefits based on basic salary               |
+| **TDS**              | Tax on salary income deducted by employer              |
+| **ESOPs/RSUs**       | Equity benefits with distinct tax timings & rules      |
+
+---
+
+## 7. Tips for Beginners
+- Aim for **40–45% of CTC** as Basic for balanced take-home and benefits :contentReference[oaicite:19]{index=19}.
+- Structure allowances wisely to maximize tax exemptions (HRA, LTA).
+- Track your PF, gratuity buildup, and salary slip details.
+- For ESOPs/RSUs—plan tax implications at vesting/exercise and on sale.
+- Always check your salary slip breakdown and stay informed!
+
+---
+
+## 8. Helpful Definitions
+- **Gross Salary**: Salary before any deductions.
+- **Net Salary**: Salary after all deductions—your take-home pay.
+- **CTC**: Total cost the company bears including benefits.
+- **Perquisite**: Taxable benefit beyond salary (e.g., equity awards).
+
+---
+
+This should give you a strong foundation in understanding and managing your salary components effectively in India. Let me know if you'd like examples, calculators, or help with any specific component! 
